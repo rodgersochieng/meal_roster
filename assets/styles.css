@@ -1,0 +1,70 @@
+/* body{
+    background-image: url(../images/nordwood-themes-UkaxVVAgDaw-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: "charm", "Charm-Bold.ttf";
+
+}
+
+#greetings{
+    
+    background-image: url(../images/thought-catalog-fnztlIb52gU-unsplash.jpg);
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px ;
+    width: 300px;
+    font-weight: 900;
+    background-position: center;
+    background-size: contain;
+}
+
+section{
+    display: flex;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-image: url(../images/lukas-blazek-f-TWhXOrLiU-unsplash.jpg);
+    background-size: contain;
+    background-position: center;
+     border-radius: 20px;
+     font-size: larger;
+     font-weight: 900;
+     
+}   
+#data-collect{
+    margin-left:10%;
+}
+
+button{
+    color:white;
+    background-color: blue;  
+}
+
+
+
+#monday, #Thursday, #Tuesday,#Friday,#Saturday,#Sunday,#Wednesday{
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px ;
+    width: 300px;
+    font-weight: 900;
+    
+
+}
+summary{
+
+display: flex;
+
+}
+ footer{
+    padding-top: 30px;
+    padding: 1em;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px ;
+    width: 100%;
+
+ }
+
+ li {
+    color: tomato;
+ } */
