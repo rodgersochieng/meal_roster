@@ -1,4 +1,4 @@
-/* body{
+body{
     background-image: url(../images/nordwood-themes-UkaxVVAgDaw-unsplash.jpg);
     background-position: center;
     background-size: cover;
@@ -6,7 +6,7 @@
 
 }
 
-#greetings{
+/* #greetings{
     
     background-image: url(../images/thought-catalog-fnztlIb52gU-unsplash.jpg);
     padding: 1em;
