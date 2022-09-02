@@ -17,31 +17,31 @@
 // Breakfast 
 
 
-//  document.addEventListener('DOMContentLoaded', () => {
+ document.addEventListener('DOMContentLoaded', () => {
 
-//       const breakFastlist = document.querySelectorAll('#breakfast  ul' )
+      const breakFastlist = document.querySelectorAll('#breakfast  ul' )
   
   
-//       document.querySelector('#breakfast_btn').addEventListener('click', (event) =>{
-//           event.preventDefault()
-//           // console.log(document.getElementById('breakfast_data').value)
+      document.querySelector('#breakfast_btn').addEventListener('click', (event) =>{
+          event.preventDefault()
+          // console.log(document.getElementById('breakfast_data').value)
   
-//           let breakFast = document.getElementById('breakfast_data').value
+          let breakFast = document.getElementById('breakfast_data').value
   
   
-//          breakFastlist.innerHTML += `<li>${breakFast} </li>`
+         breakFastlist.innerHTML += `<li>${breakFast} </li>`
   
-//            breakFastlist.forEach( function (element) {
-//          element.innerHTML += `<li>${breakFast} sounds awesome!!</li>`
+           breakFastlist.forEach( function (element) {
+         element.innerHTML += `<li>${breakFast} sounds awesome!!</li>`
            
   
-//        } )
+       } )
   
-//       })
-//     } )
+      })
+    } )
     
 
-// //  lunch
+//  lunch
 
 // document.addEventListener("DOMContentLoaded", () =>{
 
