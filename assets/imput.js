@@ -43,18 +43,18 @@
 
 //  lunch
 
-// document.addEventListener("DOMContentLoaded", () =>{
+document.addEventListener("DOMContentLoaded", () =>{
 
-//     const lunchDetails = document.querySelectorAll("#lunch ul ")
-//     document.querySelector("#lunch_btn").addEventListener('click', (event) => {
-//         event.preventDefault()
+    const lunchDetails = document.querySelectorAll("#lunch ul ")
+    document.querySelector("#lunch_btn").addEventListener('click', (event) => {
+        event.preventDefault()
 
-//         let lunch = document.querySelector('#lunch_data').value
+        let lunch = document.querySelector('#lunch_data').value
 
-//         lunchDetails.innerHTML += `<li>${lunch}<li>`
+        lunchDetails.innerHTML += `<li>${lunch}<li>`
 
-//         lunchDetails.forEach(function (element) {element.innerHTML += `<li>${lunch}</li>`})
-//     })
+        lunchDetails.forEach(function (element) {element.innerHTML += `<li>${lunch}</li>`})
+    })
 
 
 
