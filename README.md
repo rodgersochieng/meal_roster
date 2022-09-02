@@ -19,4 +19,4 @@ the following have been used in this project
 <li>Java Script</li>
 
 <h2> Support and Contact details</h2>
-This app represents the first version. In this case, it is still work in progress. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through rodges.ochieng
+This app represents the first version. In this case, it is still work in progress. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through rodges.ochieng@student.moringaschool.com
