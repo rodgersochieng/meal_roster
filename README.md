@@ -11,4 +11,12 @@ Meals Roster is a website that enables users to plan for a diet  days prior
  
  <li>a smartphone/tablet or a pc </li>
  <li>Web-browser </li>
- 
+
+<h2> Technologies Used</h2>
+the following have been used in this project
+<li>HTML</li>
+<li>CSS</li>
+<li>Java Script</li>
+
+<h2> Support and Contact details</h2>
+This app represents the first version. In this case, it is still work in progress. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through rodges.ochieng@student.moringaschool.com
