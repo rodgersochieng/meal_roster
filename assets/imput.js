@@ -60,22 +60,22 @@ document.addEventListener("DOMContentLoaded", () =>{
 
 
 
-// })
+})
 
-// // //   Dinner 
-//  function addSupper() {
-// const dinnerList =document.querySelectorAll('#dinner ul')
-// document.getElementById('dinner_btn').addEventListener('click', (e) =>{
-//     e.preventDefault()
-//     document.getElementById('dinner_data').value
+// //   Dinner 
+ function addSupper() {
+const dinnerList =document.querySelectorAll('#dinner ul')
+document.getElementById('dinner_btn').addEventListener('click', (e) =>{
+    e.preventDefault()
+    document.getElementById('dinner_data').value
     
-//      let dinner = document.getElementById('dinner_data').value
+     let dinner = document.getElementById('dinner_data').value
 
-//      dinnerList.innerHTML += `<li> ${dinner}</li>`
+     dinnerList.innerHTML += `<li> ${dinner}</li>`
 
-//      dinnerList.forEach(function (element) {element.innerHTML += `<li>${dinner}</li>`})
+     dinnerList.forEach(function (element) {element.innerHTML += `<li>${dinner}</li>`})
 
-// })}
+})}
 
-// addSupper()
+addSupper()
 
