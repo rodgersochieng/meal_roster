@@ -1,13 +1,13 @@
-// {
-//   "suggestions":[
+{
+  "suggestions":[
 
-//    {   "id":"1",
-//       "morning":"we suppose you take coffee",
-//       "dayMeal": "Take something light ",
-//       "nightMeal": "Heavy meal is good for sleep",
-//       "healthyTrics": "Track the food you eat and their nutritional content. Adapt your diet based on your nutrient intake and start a journey to a healthier you."
+   {   "id":"1",
+      "morning":"we suppose you take coffee",
+      "dayMeal": "Take something light ",
+      "nightMeal": "Heavy meal is good for sleep",
+      "healthyTrics": "Track the food you eat and their nutritional content. Adapt your diet based on your nutrient intake and start a journey to a healthier you."
 
       
-//   }
-//   ]
-// }
+  }
+  ]
+}
