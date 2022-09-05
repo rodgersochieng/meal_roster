@@ -68,3 +68,6 @@ display: flex;
  li {
     color: tomato;
  }
+ ol li {
+    color: black;
+ }
