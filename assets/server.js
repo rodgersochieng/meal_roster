@@ -26,7 +26,7 @@ display(data)
         document.querySelector('#breakfast li').innerHTML = array
         document.querySelector('#lunch li').innerHTML = array2
         document.querySelector('#dinner li').innerHTML = array3
-        document.querySelector('#eating-habbits li').innerHTML += array4
+        document.querySelector('#eating-habbits li').innerHTML = array4
   
     } )
     
